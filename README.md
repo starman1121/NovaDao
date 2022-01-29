@@ -1,4 +1,4 @@
-# [Nova Frontend]This is the front-end repo for Hector that allows users be part of the future of Greece. 
+# [Nova Frontend]This is the front-end repo for Nova that allows users be part of the future of Greece. 
 
 ##  🔧 Setting up Local Development
 
@@ -9,8 +9,8 @@ Required:
 
 
 ```bash
-$ git clone https://github.com/Hector-DAO/HectorDAO.git
-$ cd hectordao
+$ git clone https://github.com/Nova-DAO/NovaDAO.git
+$ cd novadao
 
 # set up your environment variables
 # read the comments in the .env files for what is required/optional
@@ -46,5 +46,5 @@ The files/folder structure are a  **WIP** and may contain some unused files. The
 
 ## 🗣 Community
 
-* [Join our Discord](https://discord.me/hector) and ask how you can get involved with the DAO!
+* [Join our Discord](https://discord.me/Nova) and ask how you can get involved with the DAO!
 
